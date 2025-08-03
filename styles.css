@@ -23,7 +23,7 @@ body {
     font-size: 15px;
     line-height: 1.5;
     font-family: "Outfit", sans-serif;
-    background: #fff;
+    background: var(--white);
     overflow-x: hidden;
     background-color: var(--slate-300);
 }
